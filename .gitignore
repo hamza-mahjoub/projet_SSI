@@ -1,0 +1,9 @@
+/*.env
+/authModule/__pycache__
+/dataBaseManager/__pycache__
+/graphicWindows/__pycache__
+__pycache__
+/graphicWindows/accountMenu/asymmetricEncryption/__pycache__
+/graphicWindows/accountMenu/asymmetricEncryption/protocols/__pycache__
+/graphicWindows/accountMenu/chatRoom/__pycache__
+/graphicWindows/accountMenu/symmetricEncryption/__pycache__
