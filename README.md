@@ -2,7 +2,7 @@
 
 ## les fonctionnalités :
 
-- Création d'un Compte
+- Création d'un compte
 - Login avec mot de passe et code de vérification (envoyer par email).
 - Codage / Decodage d'un message (base16, base32, base64,...).
 - Hachage d'un message (sha1, sha224, sha256, md5,...).
