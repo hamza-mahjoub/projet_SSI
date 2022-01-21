@@ -26,7 +26,7 @@
 
   PORT = 587
   SMTP_SERVER = "smtp.gmail.com"
-  SENDER_EMAIL = "addresse_email@gmail.com
+  SENDER_EMAIL = "une_addresse_email@gmail.com
   PASSWORD = "mot de passe"
   
 ```
