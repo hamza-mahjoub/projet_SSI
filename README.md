@@ -47,11 +47,13 @@ crunch 26 26 -t @@@@@@.@@@@@@insat.ucar.tn -l aaaaaa.aaaaa@insat.ucar.tn -s robe
   
 ## Le principe de la "chat room" 
  
- 1- L'utilisateur fournit sa clé privée RSA.
+ 1- Lancer le script server.
  
- 2- Sa clé publique générée sera envoyé vers le serveur.Il a une liste des clés qu'est diffusé à chaque nouvelle connexion.
+ 2- L'utilisateur fournit sa clé privée RSA.
  
- 3- Le client ainsi chiffre le message avec la clé publique de son récepteur avant de l'envoyer.
+ 3- Sa clé publique générée sera envoyé vers le serveur.Il a une liste des clés qu'est diffusé à chaque nouvelle connexion.
+ 
+ 4- Le client ainsi chiffre le message avec la clé publique de son récepteur avant de l'envoyer.
  
  => une communication sécurisée.
  
